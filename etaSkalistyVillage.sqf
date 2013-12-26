@@ -1,4 +1,5 @@
 // Skalisty Village done by etaCarinae aka denmark
+// Last Updated 26 Dec 2013
 
 
 if (isServer) then {
