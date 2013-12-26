@@ -1,5 +1,5 @@
 // Skalisty Village done by etaCarinae aka denmark
-// Last Update: 26 Dec 2013 - 11:20
+// Last Update: 26 Dec 2013 - 12:41
 
 if (isServer) then {
 
@@ -2380,7 +2380,7 @@ if (isServer) then {
 		_bldObj = objNull;
 		if (true) then
 		{
-		  _bldObj = createVehicle ["MAP_Church_03", [13698.882, 2961.5598, -4.9591064e-005], [], 0, "CAN_COLLIDE"];
+		  _bldObj = createVehicle ["Land_Church_03", [13698.882, 2961.5598, -4.9591064e-005], [], 0, "CAN_COLLIDE"];
 		  _bldObj setDir -34.792892;
 		  _bldObj setPos [13698.882, 2961.5598, -4.9591064e-005];
 		  _bldObj setVectorUp [0, 0, 1];
